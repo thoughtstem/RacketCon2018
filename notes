@@ -1,0 +1,101 @@
+20 minutes (2200 words)
+
+Title.  I pivoted my startup to use Racket.  Can we pivot the world?
+
+
+****Intro****
+
+I want to tell you a story.  
+
+I'll tell you the whole story,
+the  beginning the middle and the end.  But, when we get to the end, I
+hope you'll keep in mind that the story isn't finished yet.  The 
+beginning and middle are written.  They're in the past.  But the end,
+that's where I'll lay out some hopes and dreams for the future.  
+
+
+****Past*****
+
+I was born.  That's true.  That's a fact.  I wish I could say that
+I was introduced to Racket immediately upon arriving in this world.
+But that would have been historically impossible back in 1985.  
+
+I was, however, lucky enough to be introduced to programming
+quite early because my mom was awesome.  We were living in the Middle
+East, and at the time, women weren't allowed to drive, and honestly
+it was kind of inconvenient for her to even leave our house because
+she had to wear a veil -- which she wasn't a fan of.  So although
+it was nine years of inconvenience for her, I was luck enough
+that she was around (and bored enough) to teach me how to code
+in BASIC on our Apple II.
+
+I wish I could say I learned Racket back then, but that too would
+have been historically impossible at the time.  From what I understand,
+PLT Scheme was only just being created in the 90s.  
+
+I'll get to Racket in just a moment, but there's one more important
+point.  In high school, I had an unfortunate experience in a 
+programming class that almost undid everything.  I won't go 
+into the details, but essentially, it made me decide, categorically
+that I didn't want to be a programmer.  I decided to give it up forever.
+I enrolled in college as a psychology major, dropped out, tried
+to be a sci-fi writter for a few years, living with my parents.
+I eventually went back to college, when that didn't pan out.
+And that's when something interesting happened.
+
+Back in a tiny (but awesome) liberal arts school called Southwestern
+University in Georgetown Texas, I took a programming class.
+It was the first code I had written in about 6 or 7 years.  
+Why did I take the class?  Well, I wish I could say it was for
+good reasons, but really I was just taking it to fill a math
+requirement for my philosophy degree.  If I'm being perfectly honest,
+I figured it would be an easy A.  It turned out to be one of
+the best decisions of my life.
+
+In that class, though, we used this interesting thing called
+DrScheme.  DrScheme.  You've probably never heard of it.  But
+it was cool.  And it was that class that inspired me to 
+take another computer science class, and another, and another,
+until I ultimately finished up with a double-major in philosophy
+and computer science.
+
+Although that one class with DrScheme was the only class I
+had with what-would-become-Racket.  The rest of my classes
+used Haskell and Java.  Still, though, because of that first class
+-- the one that pivoted me back into computing -- I have a
+very soft spot for Racket.  And that class was the reason
+the rest of this story turns out the way that it does.
+
+I thought about calling this talk: How Racket Saved My Life.
+But I thought that would be melodramatic.  True though it 
+may be.
+
+
+****Present****
+
+
+
+
+
+
+I thought about calling this talk: How Racket Saved My Life,
+and How It's Helping Me Save Others.
+But I thought that would be melodramatic.  True though it 
+may be.
+
+****Future****
+
+
+
+
+
+
+I thought about calling this talk: How Racket Saved My Life,
+and How We the Racket Community Can Save the World.
+But I thought that would be melodramatic.  True though it 
+may be.
+
+
+
+
+
