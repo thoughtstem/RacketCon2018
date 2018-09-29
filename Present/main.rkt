@@ -13,9 +13,9 @@
 
 (define enter (slide #:back-portal (portal (change-img-hue 90 portal-style-1))
                      "Present"
-                     "Cool thing"
-                     "Additionally..."
-                     "Yes!"))
+                     "Building a company"
+                     "Finding Racket (again)"
+                     "Show and tell"))
 
 (module+ test 
   (start-game

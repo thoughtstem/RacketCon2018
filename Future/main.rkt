@@ -13,9 +13,9 @@
 
 (define enter (slide #:back-portal (portal (change-img-hue 150 portal-style-1))
                      "Future"
-                     "Cool thing"
-                     "Additionally..."
-                     "Yes!"))
+                     "Teach the world"
+                     "Pay it forward"
+                     "Let's do it!"))
 
 (module+ test 
   (start-game

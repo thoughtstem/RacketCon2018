@@ -7,9 +7,12 @@
          game-engine-rpg)
 
 (define player
-  (add-component
-   (basic-hero (posn 200 250))
-   (link-follower)))
+  (update-entity
+   (add-component
+    (basic-hero (posn 200 250))
+    (link-follower))
+   key-movement?
+   (key-movement 10)))
 
 (define platform
   (sprite->entity stone-platform-tile
@@ -62,6 +65,7 @@
 
 (define (enter g)
   (list player
+        (text-entity "A Racket Story" (posn 200 50))
         platform
         first-label
         first-portal

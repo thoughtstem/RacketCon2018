@@ -14,8 +14,8 @@
 (define enter (slide #:back-portal (portal (change-img-hue 30 portal-style-1))
                      "Past"
                      "Birth"
-                     "Discovering \"Racket\""
-                     "Off to change the world..."))
+                     "\"Death\""
+                     "Finding \"Racket\""))
 
 (module+ test 
   (start-game
