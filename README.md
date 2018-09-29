@@ -58,9 +58,8 @@ take another computer science class, and another, and another,
 until I ultimately finished up with a double-major in philosophy
 and computer science.
 
-Although that one class with DrScheme was the only class I
-had with what-would-become-Racket.  The rest of my classes
-used Haskell and Java.  Still, though, because of that first class
+The rest of my classes used Haskell and Java and stuff.  Still, 
+though, because of that first class
 -- the one that pivoted me back into computing -- I have a
 very soft spot for Racket.  And that class was the reason
 the rest of this story turns out the way that it does.
@@ -113,15 +112,12 @@ and 2htdp/image and universe libraries are amazing, and
 I could go on and on about these things that are probably
 obvious to everyone in this room.
 
-I was delighted to find all of this, and even more delighted
-to find that within the Racket ecosystem was a thousand
-times more than I could have hoped for, because I
-found, in Racket, a robust general purpose language
-for creating new educational technologies -- which is
-my passion, and my company's mission.
-
-Since January, we've been working to rewrite much of our
-edcuational technology using Racket.  We've packaged 
+Since January, we've started creating all of our
+edcuational technology using Racket.  I wanted to take
+every course we were already teaching, and start doing it
+with Racket.
+ 
+We've packaged 
 many of these as Racket libraries or langs, and I'll
 give a quick whirlwind tour of some of them.
 
@@ -143,13 +139,16 @@ Others:
   html5-lang
   processing
   game-engine
-  [Our backend stuff.]
+
+Students can now use DrRacket across all of our classes,
+all with a consistent, beautiful, S-expression-based
+syntax.
 
 I thought about calling this talk: How Racket Saved My Life,
-and How It's Helping Me Bring the Joy of Computer Science to 
+and How It's Helping Me Bring the Joy of Racket to 
 Kids.
 
-But I thought that would be melodramatic.  True though it 
+But I thought that would (again) be melodramatic.  True though it 
 may be.
 
 ****Future****
@@ -167,7 +166,7 @@ I think that world will be infinitely cooler than this one.
 It'll be a world where every human being on the planet is a
 more effective human being.
 
-I don't even know how to begin to imagine that.  But I know 
+I don't even know how clearly imagine that.  But I know 
 that my ability to code has magnified my impact in the world.
 So it has been for all of the coders I know.  It's probably
 been that way for many if not all of you in this room.  Can
@@ -262,11 +261,7 @@ who couldn't care less what an if-expression or a lambda function
 is.  They just want to make cool-looking Minecraft mods all  
 day long.  And that's fine!
 
-Not everyone needs to be forced to be a general purpose programmer
-right away, but some of us will be.  And of those of us who are,
-there will be some like me (like perhaps many of you) who want
-to pay it forward -- who want to see the community grow, who
-want to bring Racket to the world.  If those of us who care
+Some of us WILL want to pay it forward, though.  If those of us who care
 about that endeavor all tackle the problem from multiple angles,
 I think we can make a real impact, and enable even more to make an 
 impact, who will enable even more, and so on...
